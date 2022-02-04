@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MaicolApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Username</string>
+    <string name="nav_header_subtitle">Ciudad. Lima, Perú</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configurar</string>
+    <string name="action_exit">Cerrar Sección</string>
+    <string name="action_search">Buscar</string>
+
+    <string name="title_principal">Lotesperuanos</string>
+    <string name="version_0">Lotes Peruanos Version 0.1</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_calendar">Agendar Visita</string>
+    <string name="menu_setting">Configuración</string>
+
+
+</resources>
